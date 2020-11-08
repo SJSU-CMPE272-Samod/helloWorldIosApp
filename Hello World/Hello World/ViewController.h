@@ -10,7 +10,7 @@
 
 @interface ViewController : UIViewController
 
-@property (strong, nonatomic)IBOutlet UILabel *label;
+@property (strong, nonatomic)UILabel *label;
 
 @end
 
